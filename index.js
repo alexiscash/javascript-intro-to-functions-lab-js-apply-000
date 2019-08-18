@@ -24,4 +24,5 @@ function sayHiToGrandma(string) {
   }
 }
 
+logShout("HELLO");
 logWhisper("HELLO");
